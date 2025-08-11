@@ -1,26 +1,27 @@
-     ⚽    SIUUUUUUUUU !!!    ⚽
-          \o/       \o/       \o/
-           |         |         |
-          / \       / \       / \
+⚽  S  I  U  U  U  U  U  U  U  U  !!!  ⚽
+        \o/        \o/        \o/
+         |          |          |
+        / \        / \        / \
 
+================== 📜 CÂU CHUYỆN ==================
 
-## 📜 Câu chuyện
-Ngày xửa ngày xưa, có một lập trình viên (chính là **tui** 😎) mệt mỏi vì:
-- Mỗi lần sửa code lại phải build thủ công 🛠
-- Copy file tay, nhỡ quên backup → “Tạm biệt bản cũ” 😱
-- Deploy xong mới biết… app lỗi 💥
+Ngày xửa ngày xưa 🌌, có một lập trình viên (vâng, chính là tui 😎) 
+đang lạc lối trong thế giới debug và deploy thủ công…
 
-Rồi một ngày đẹp trời 🌤, **Jenkins** xuất hiện như một vị cứu tinh:
-> “Để ta tự động hóa tất cả cho cậu, từ build, test, đến deploy! 💪”
+🔄 Mỗi lần sửa code → build tay 🛠  
+📂 Copy file thủ công → lỡ quên backup → “Tạm biệt bản cũ” 😱  
+💥 Deploy xong mới biết… app crash toàn tập.
 
-Và thế là cuộc hành trình **CI/CD** cho WinForms bắt đầu...  
-Mỗi khi tui gõ `git push` → Jenkins sẽ:
-1. 📬 Nhận tin qua **Webhook GitHub**.
-2. 📥 Kéo code mới nhất về.
-3. 🛠 Build dự án WinForms với **MSBuild**.
-4. 📦 Backup bản cũ (phòng trường hợp drama).
-5. 🚀 Deploy bản mới vào server chỉ trong **vài giây**.
+💡 Rồi một ngày, Jenkins xuất hiện như một **hiệp sĩ CI/CD**:
 
----
+"Để ta lo cho, từ build → test → deploy, nhanh gọn như Ronaldo SIUUUU!" ⚡
 
-## 📂 Cấu trúc dự án
+Kể từ đó, mỗi lần tui gõ `git push`:
+
+1️⃣ **📬 Nhận tin qua Webhook GitHub**  
+2️⃣ **📥 Kéo code mới nhất về**  
+3️⃣ **🛠 Build WinForms bằng MSBuild**  
+4️⃣ **📦 Backup bản cũ** (phòng drama)  
+5️⃣ **🚀 Deploy bản mới trong vài giây**  
+
+🎯 Kết quả: Tui chỉ việc… gõ lệnh, uống cà phê ☕, còn Jenkins lo phần còn lại.  

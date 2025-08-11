@@ -1,0 +1,10 @@
+C:\Users\SinhVien\source\repos\MyWinFormsApp\MyWinFormsApp\bin\Debug\MyWinFormsApp.exe.config
+C:\Users\SinhVien\source\repos\MyWinFormsApp\MyWinFormsApp\bin\Debug\MyWinFormsApp.exe
+C:\Users\SinhVien\source\repos\MyWinFormsApp\MyWinFormsApp\bin\Debug\MyWinFormsApp.pdb
+C:\Users\SinhVien\source\repos\MyWinFormsApp\MyWinFormsApp\obj\Debug\MyWinFormsApp.csproj.AssemblyReference.cache
+C:\Users\SinhVien\source\repos\MyWinFormsApp\MyWinFormsApp\obj\Debug\MyWinFormsApp.Form1.resources
+C:\Users\SinhVien\source\repos\MyWinFormsApp\MyWinFormsApp\obj\Debug\MyWinFormsApp.Properties.Resources.resources
+C:\Users\SinhVien\source\repos\MyWinFormsApp\MyWinFormsApp\obj\Debug\MyWinFormsApp.csproj.GenerateResource.cache
+C:\Users\SinhVien\source\repos\MyWinFormsApp\MyWinFormsApp\obj\Debug\MyWinFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\SinhVien\source\repos\MyWinFormsApp\MyWinFormsApp\obj\Debug\MyWinFormsApp.exe
+C:\Users\SinhVien\source\repos\MyWinFormsApp\MyWinFormsApp\obj\Debug\MyWinFormsApp.pdb
